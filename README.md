@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+</div
 
 <br/>
 
@@ -74,3 +75,6 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+# Portfolio
+>>>>>>> 210fb185d05f71ccf9ee0604a2b4b114e5cba5b5
