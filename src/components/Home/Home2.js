@@ -22,7 +22,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, , Node.js{" "}
+                  JavaScript, C++,Node.js{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
